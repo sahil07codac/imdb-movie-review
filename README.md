@@ -1,4 +1,5 @@
 # IMDB MOVIE REVIEW 
+![image](https://github.com/sahil07codac/imdb-movie-review/assets/141804728/e31f88ba-0353-459b-9c0d-07269466082f)
 
 # About Dataset
 
