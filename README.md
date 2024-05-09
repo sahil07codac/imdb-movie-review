@@ -1,6 +1,6 @@
 # IMDB MOVIE REVIEW 
 
-About Dataset
+** About Dataset
 
 This IMDB dataset goal is to provide a base for sentiment analysis. Usually, datasets of this kind provide binary classes telling whether the text is positive or negative however this approach fails in some points. We don't know how the data was linked to those labels and the queries used. Here, these fails were solved. To do so we:
 
