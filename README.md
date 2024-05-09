@@ -9,3 +9,15 @@ Checked whether the movie was already evaluated or not.
 Recorded the firsts reviews and ratings excluding the spoiler tag.
 Then after data being retrieved, we translated all reviews to Portuguese.
 Just as in the original IMDB Dataset, we didn't retrieve a huge amount of reviews from the same movie to keep a low correlation of reviews. We recommend pre-processing this dataset in order to have a more uniform distribution of ratings.
+
+
+# skills -PYTHON, ML, NLTK, SENTIMENTAL ANALYSIS TOOL
+
+
+# Steps Followed
+
+Data Preparation: Preprocess the raw dataset, handle missing values, and engineer relevant features.
+EDA:
+Model Training: Train the machine learning models using historical data and tune hyperparameters if necessary.
+Model Evaluation: Evaluate the trained models using appropriate evaluation metrics and visualize the results.
+Prediction: Make predictions for future windfarm power output based on the trained models 
